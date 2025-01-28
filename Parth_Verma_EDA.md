@@ -3,7 +3,7 @@
 ### 1.  **Regional Customer Trends**
 
 * **North America** experienced the highest customer growth from  **2023 to 2024** , rebounding after a dip in 2023, while **Asia** showed steady growth before stabilizing. **Europe** peaked in 2023 but declined in 2024, indicating possible market saturation or customer churn. **South America** faced a sharp decline in 2023 but recovered in 2024. Understanding **North America’s surge, Europe’s decline, and South America's fluctuations** can help refine marketing strategies, improve customer retention, and drive sustainable growth across regions.
-  ![1738083862708](image/Parth_Verma_EDA/1738083862708.png)
+  ![1738085212133](image/Parth_Verma_EDA/1738085212133.png)
 
 ### 2.  **Price Variation Across Categories** :
 
@@ -12,14 +12,13 @@
 ### 3.  **Top-Spending Customers** :
 
 * The top 5 customers have demonstrated significantly higher spending, with **Paul Parsons** leading at **10,673.87**, followed by **Bruce Rhodes, Gerald Hines, William Adams, and Aimee Taylor**. Their spending spans across Europe, Asia, North America, and South America, highlighting the global distribution of premium buyers. Implementing exclusive loyalty programs, personalized discounts, and targeted upselling strategies can strengthen engagement and retention. Additionally, analyzing their purchase patterns can provide insights to attract similar high-value customers, ultimately driving sustained revenue growth across key regions.
-
-  ![1738084656483](image/Parth_Verma_EDA/1738084656483.png)
+  ![1738085200717](image/Parth_Verma_EDA/1738085200717.png)
 
 ### 4.  **Monthly Spending Trends** :
 
 * Customer spending peaks in March (68,098.04) and April (84,116.69), while June (43,827.10) and August (32,074.39) show noticeable declines. This indicates a seasonal purchasing trend, likely influenced by promotions, product demand cycles, or external factors like holidays. To maximize revenue, businesses should implement targeted marketing campaigns, seasonal discounts, and limited-time offers during slower months to boost sales and engagement. Additionally, analyzing high-performing months can help refine promotional strategies, ensuring consistent revenue flow throughout the year.
 
-  ![](https://file+.vscode-resource.vscode-cdn.net/home/parth/Desktop/Python/zeotap/output.png?version%3D1738084314693)
+  ![1738085188588](image/Parth_Verma_EDA/1738085188588.png)
 
 ### 5.  **Product Popularity and Count** :
 
